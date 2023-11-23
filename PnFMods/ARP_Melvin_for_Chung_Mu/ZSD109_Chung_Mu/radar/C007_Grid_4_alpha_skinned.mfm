@@ -1,0 +1,7 @@
+<C007_Grid_4_alpha_skinned.mfm>
+	<fx>	shaders/std_effects/grid_alpha_skinned.fx	</fx>
+	<collisionFlags>	0	</collisionFlags>
+	<property>	diffuseMap
+		<Texture>	PnFMods/ARP_Melvin_for_Chung_Mu/ZSD109_Chung_Mu/radar/C007_Grid_4_alpha_a.dds	</Texture>
+	</property>
+</C007_Grid_4_alpha_skinned.mfm>
