@@ -1,7 +1,6 @@
 <ZGT012_21in_MK15_Torpedo_Tubes_dead.model>
-	<castsShadow>	true	</castsShadow>
-	<parent>	PnFMods/ARP_Melvin_for_Chung_Mu/ZSD109_Chung_Mu/gun/lods/ZGT012_21in_MK15_Torpedo_Tubes_dead_lod1	</parent>
-	<extent>	4.0000	</extent>
-	<nodefullVisual>	PnFMods/ARP_Melvin_for_Chung_Mu/ZSD109_Chung_Mu/gun/ZGT012_21in_MK15_Torpedo_Tubes_dead	</nodefullVisual>
-	<metaData>	Wargaming | Lesta Studio	</metaData>
+	<visual>	PnFMods/ARP_Melvin_for_Chung_Mu/ZSD109_Chung_Mu/gun/ZGT012_21in_MK15_Torpedo_Tubes_dead.visual	</visual>
+	<animations />
+	<dyes />
+	<metaData>	Wargaming.net	</metaData>
 </ZGT012_21in_MK15_Torpedo_Tubes_dead.model>

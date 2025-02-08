@@ -7,7 +7,4 @@
 	<property>	metallicGlossMap
 		<Texture>	PnFMods/ARP_Melvin_for_Chung_Mu/ZSD109_Chung_Mu/ship/ZSD011_Chung_Mu_1943_mg.dds	</Texture>
 	</property>
-	<property>	normalMap
-		<Texture>	PnFMods/ARP_Melvin_for_Chung_Mu/ZSD109_Chung_Mu/ship/ZSD011_Chung_Mu_1943_n.dds	</Texture>
-	</property>
 </ZSD011_Chung_Mu_1943_wire.mfm>

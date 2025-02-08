@@ -1,9 +1,11 @@
 <ZSD011_Chung_Mu_1943.mfm>
+	<!--<fx>	shaders/std_effects/PBS_ship.fx	</fx>-->
 	<fx>	shaders/std_effects/PBS_ship_emissive.fx	</fx>
 	<collisionFlags>	0	</collisionFlags>
 	<property>	emissivePower
 		<Float>	0.700000	</Float>
 	</property>
+	<collisionFlags>	0	</collisionFlags>
 	<property>	ambientOcclusionMap
 		<Texture>	PnFMods/ARP_Melvin_for_Chung_Mu/ZSD109_Chung_Mu/ship/ZSD011_Chung_Mu_1943_ao.dds	</Texture>
 	</property>

@@ -1,7 +1,8 @@
 <ZRS010_Radar_SG.model>
-	<castsShadow>	false	</castsShadow>
-	<parent>	PnFMods/ARP_Melvin_for_Chung_Mu/ZSD109_Chung_Mu/radar/lods/ZRS010_Radar_SG_lod1	</parent>
-	<extent>	4.0000	</extent>
-	<nodefullVisual>	PnFMods/ARP_Melvin_for_Chung_Mu/ZSD109_Chung_Mu/radar/ZRS010_Radar_SG	</nodefullVisual>
-	<metaData>	Wargaming | Lesta Studio	</metaData>
+	<visual>	PnFMods/ARP_Melvin_for_Chung_Mu/ZSD109_Chung_Mu/radar/ZRS010_Radar_SG.visual	</visual>
+	<animations>
+		<animation>	content/animation_state_machines/legacy/gameplay/ZRS010_Radar_SG/ZRS010_Radar_SG.ssm	</animation>
+	</animations>
+	<dyes />
+	<metaData>	Wargaming.net	</metaData>
 </ZRS010_Radar_SG.model>

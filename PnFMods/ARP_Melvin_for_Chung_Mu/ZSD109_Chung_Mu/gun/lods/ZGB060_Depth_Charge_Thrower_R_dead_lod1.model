@@ -1,7 +1,0 @@
-<ZGB060_Depth_Charge_Thrower_R_dead_lod1.model>
-	<castsShadow>	false	</castsShadow>
-	<parent>	PnFMods/ARP_Melvin_for_Chung_Mu/ZSD109_Chung_Mu/gun/lods/ZGB060_Depth_Charge_Thrower_R_dead_lod2	</parent>
-	<extent>	8.0000	</extent>
-	<nodefullVisual>	PnFMods/ARP_Melvin_for_Chung_Mu/ZSD109_Chung_Mu/gun/lods/ZGB060_Depth_Charge_Thrower_R_dead_lod1	</nodefullVisual>
-	<metaData>	Wargaming | Lesta Studio	</metaData>
-</ZGB060_Depth_Charge_Thrower_R_dead_lod1.model>
